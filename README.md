@@ -52,3 +52,9 @@ Despite the significant strides made in the automotive sector, the conventional 
 - AR.js for Augmented Reality integration
 - Git for version control
 - GitHub for repository hosting
+
+
+## Screenshots
+
+![Home Page](screenshots/home-page.png)
+![Car Customization](screenshots/car-customization.png)
