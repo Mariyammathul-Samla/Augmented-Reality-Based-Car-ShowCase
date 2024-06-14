@@ -57,9 +57,7 @@ Despite the significant strides made in the automotive sector, the conventional 
 ## Screenshots
 
 ![Home Page](ss/home.png)
-![Car Description](ss/cat.png)
-![Insallation](ss/1.jpg)
-![](ss/3.jpg)
+
 ![](ss/4.jpg)
 ![](ss/5.jpg)
 ![](ss/6.jpg)
